@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970929ca6ad9b084fb9be86eccea98cd, type: 3}
+  m_Name: scytheData
+  m_EditorClassIdentifier: 
+  name: "\u041C\u043E\u0440\u043E\u0437\u043D\u044B\u0435 \u0441\u0435\u0440\u043F\u044B"
+  img: {fileID: 21300000, guid: 0beb303172f7be94f97a20ddac4f74a9, type: 3}
+  options: "\u0445\u0437"
+  stats:
+    damage: 123
+    timeToAttack: 12312
+  weaponPrefab: {fileID: 2853646549810633666, guid: 20f007002b45a7f4bb83070430f6bf1b, type: 3}
